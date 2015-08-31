@@ -1,16 +1,15 @@
 # David Lopez
-8318 Archwood Circle, Tampa, FL 33615
-(813) 351-9084
-davelpz@gmail.com
+8318 Archwood Circle, Tampa, FL 33615  
+(813) 351-9084  
+davelpz@gmail.com  
 http://www.linkedin.com/in/davelpz
 
 # Summary
-
 Senior Software Engineer with 24 years experience  with graphical  user interfaces, user experience design, and web technologies.  Full stack skills ranging from database design to front end engineering.
 
 # Professional Experience
 ## Verizon (Temple Terrace, FL)
-*[Verizon](http://verizon.com) Telecominications.*
+*[Verizon](http://verizon.com) Telecominications.*  
 **Senior Member Techincal Staff** (September 1197 - Present)
 
 Summary of your role
@@ -21,7 +20,7 @@ Summary of your role
 - Accomplishment
 
 ## Origin Technologies (Tampa, FL)
-*[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*
+*[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
 **Senior Consultant** (September 1994 - September 1997)
 
 Summary of your role
@@ -32,7 +31,7 @@ Summary of your role
 - Accomplishment
 
 ## IBM (Rochester, MN)
-*[IBM](http://www.ibm.com) midrange systems division.*
+*[IBM](http://www.ibm.com) midrange systems division.*  
 **Software Engineer** (June 1990 - September 1994)
 
 Summary of your role
