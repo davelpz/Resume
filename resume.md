@@ -13,12 +13,9 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 **Senior Member Techincal Staff** (September 1197 - Present)
 
 Summary of your role
-
-- Took many systems from inception to production, involved in all aspects of architecture,design, and implementation.
-- Designed, implemented many systems to production.
+- Took many systems from inception to production, involved in all aspects of architecture, design, implementation, and support.
 - Lead many distributed teams.
 - Architected web frameworks used internally
-- Accomplishment
 
 ## Origin Technologies (Tampa, FL)
 *[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
