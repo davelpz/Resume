@@ -40,12 +40,12 @@ Summary
 - Accomplishment
 
 # Skills
-**OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows
-**Scripting:** Scripting:} Bash and utils (sed, awk, grep), Python, Ruby
-**Backend:** Java (J2EE), Python (Django), SQL, XML, JSON
-**Frontend:** HTML, CSS (Less and Sass), JavaScript (jQuery, ExtJS)
-**Databases:** Oracle, MySQL, PostgreSQL, Cassandra, SQLite
-**Web Application servers/proxies:** Apache, HAProxy, Nginx, Tomcat, Glassfish, Weblogic
+**OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows  
+**Scripting:**  Bash and utils (sed, awk, grep), Python, Ruby  
+**Backend:** Java (J2EE), Python (Django), SQL, XML, JSON  
+**Frontend:** HTML, CSS (Less and Sass), JavaScript (jQuery, ExtJS)  
+**Databases:** Oracle, MySQL, PostgreSQL, Cassandra, SQLite  
+**Web Application servers/proxies:** Apache, HAProxy, Nginx, Tomcat, Glassfish, Weblogic  
 **Version control systems:** Git, Mercurial, Subversion, CVS
 
 # Patents
