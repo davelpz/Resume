@@ -24,19 +24,12 @@ Summary
 Summary
 
 - Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
 
 ## IBM (Rochester, MN)
 *[IBM](http://www.ibm.com) midrange systems division.*  
 **Software Engineer** (June 1990 - September 1994)
 
 Summary
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
 - Accomplishment
 
 # Skills
