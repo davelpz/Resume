@@ -10,7 +10,7 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 # Professional Experience
 ## Verizon (Temple Terrace, FL)
 *[Verizon](http://verizon.com) IT Division.*  
-**Senior Member Techincal Staff** (September 1197 - Present)
+**Senior Member Techincal Staff** (September 1997 - Present)
 
 Summary of your role
 - Took many systems from inception to production, involved in all aspects of architecture, design, implementation, and support.
