@@ -13,9 +13,9 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 **Senior Member Techincal Staff** (September 1997 - Present)
 
 Summary of your role
-- Took many systems from inception to production, involved in all aspects of architecture, design, implementation, and support.
+- Developed many systems from inception to production, including all aspects of architecture, design, implementation, and support.
 - Lead many distributed teams.
-- Architected web frameworks used internally
+- Created patented web frameworks in use at Verizon
 
 ## Origin Technologies (Tampa, FL)
 *[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
