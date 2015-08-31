@@ -9,10 +9,8 @@ http://www.linkedin.com/in/davelpz
 Senior Software Engineer with 24 years experience  with graphical  user interfaces, user experience design, and web technologies.  Full stack skills ranging from database design to front end engineering.
 
 # Professional Experience
-
 ## Verizon (Temple Terrace, FL)
 *[Verizon](http://verizon.com) Telecominications.*
-
 **Senior Member Techincal Staff** (September 1197 - Present)
 
 Summary of your role
@@ -22,9 +20,8 @@ Summary of your role
 - Accomplishment
 - Accomplishment
 
-## Origin Technolgies (Tampa, FL)
-*[Company 2][] description, particularly if not well-known.*
-
+## Origin Technologies (Tampa, FL)
+*[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*
 **Senior Consultant** (September 1994 - September 1997)
 
 Summary of your role
@@ -35,8 +32,7 @@ Summary of your role
 - Accomplishment
 
 ## IBM (Rochester, MN)
-*[Company 3][] description, particularly if not well-known.*
-
+*[IBM](http://www.ibm.com) midrange systems division.*
 **Software Engineer** (June 1990 - September 1994)
 
 Summary of your role
@@ -45,11 +41,6 @@ Summary of your role
 - Accomplishment
 - Accomplishment
 - Accomplishment
-
-
-[Company 1]: http://www.example.com/company1
-[Company 2]: http://www.example.com/company2
-[Company 3]: http://www.example.com/company2
 
 # Skills
 **OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows
@@ -68,5 +59,8 @@ Summary of your role
 **Graduate Coursework** (January 1989 - June 1990)
 ## University of Texas (El Paso, TX)
 **B.S. in Computer Science** (August 1984 - December 1988)
+
+
+
 
 
