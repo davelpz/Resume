@@ -9,14 +9,15 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 
 # Professional Experience
 ## Verizon (Temple Terrace, FL)
-*[Verizon](http://verizon.com) Telecominications.*  
+*[Verizon](http://verizon.com) IT Division.*  
 **Senior Member Techincal Staff** (September 1197 - Present)
 
 Summary of your role
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
+- Took many systems from inception to production, involved in all aspects of architecture,design, and implementation.
+- Designed, implemented many systems to production.
+- Lead many distributed teams.
+- Architected web frameworks used internally
 - Accomplishment
 
 ## Origin Technologies (Tampa, FL)
