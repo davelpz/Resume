@@ -12,7 +12,7 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 *[Verizon](http://verizon.com) IT Division.*  
 **Senior Member Techincal Staff** (September 1997 - Present)
 
-Summary of your role
+Summary
 - Developed many systems from inception to production, including all aspects of architecture, design, implementation, and support.
 - Lead many distributed teams.
 - Created patented web frameworks in use at Verizon
@@ -21,7 +21,7 @@ Summary of your role
 *[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
 **Senior Consultant** (September 1994 - September 1997)
 
-Summary of your role
+Summary
 
 - Accomplishment that contains **bold text**.
 - Accomplishment
@@ -32,7 +32,7 @@ Summary of your role
 *[IBM](http://www.ibm.com) midrange systems division.*  
 **Software Engineer** (June 1990 - September 1994)
 
-Summary of your role
+Summary
 
 - Accomplishment
 - Accomplishment
