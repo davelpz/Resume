@@ -15,7 +15,7 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 
 ###### Highlights
 - Developed many systems from inception to production, including all aspects of architecture, design, implementation, and support.  
-  **Systems**
+  **Systems (including but not limited to)**
   - *Unified User Interface* - Enterprise provisioning portal (Java, HTML5, CSS3, JavaScript)
   - *Provisioning Controller* - Enterprise orchestration (Java, HTML5, CSS3, JavaScript)
   - *BAAIS Video* - SONET provisioning  (Java, HTML, CSS, JavaScript)
