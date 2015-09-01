@@ -15,7 +15,7 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 
 ###### Highlights
 - Developed many systems from inception to production, including all aspects of architecture, design, implementation, and support.  
-  **Systems (including but not limited to)**
+  **Systems (some examples)**
   - *Unified User Interface* - Enterprise provisioning portal (Java, HTML5, CSS3, JavaScript)
   - *Provisioning Controller* - Enterprise orchestration (Java, HTML5, CSS3, JavaScript)
   - *BAAIS Video* - SONET provisioning  (Java, HTML, CSS, JavaScript)
@@ -44,6 +44,7 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 
 ### Patents
 **[8,452,861 B2](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8452861.PN.&OS=PN/8452861&RS=PN/8452861)** -- Broadcast Design For Provisioning Reconfigurable Optical Add/Drop Multiplexer Circuits (*May 28, 2013*)
+Patent pending - System For Developing, Testing, Deploying, And Managing Applications In Real-Time
 
 ### Education
 ##### University of Texas (El Paso, TX)
