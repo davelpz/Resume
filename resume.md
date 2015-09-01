@@ -16,11 +16,11 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 ###### Highlights
 - Developed many systems from inception to production, including all aspects of architecture, design, implementation, and support.  
   **Systems**
-  - *AAIS* - Wireline provisioning
-  - *BAAIS* - DSL provisioning
-  - *BAAIS Video* - SONET provisioning 
-  - *Provisioning Controller* - Enterprise orchestration
-  - *Unified User Interface* - Enterprise provisioning portal
+  - *Unified User Interface* - Enterprise provisioning portal (Java, HTML5, CSS3, JavaScript)
+  - *Provisioning Controller* - Enterprise orchestration (Java, HTML5, CSS3, JavaScript)
+  - *BAAIS Video* - SONET provisioning  (Java, HTML, CSS, JavaScript)
+  - *BAAIS* - DSL provisioning  (Java, Swing)
+  - *AAIS* - Wireline provisioning  (Java, Swing)
 - Team Lead for internationally distributed teams.
 - Created patented web frameworks in use at Verizon
 
