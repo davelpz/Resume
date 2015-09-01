@@ -15,8 +15,9 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 
 ###### Summary
 - Developed many systems from inception to production, including all aspects of architecture, design, implementation, and support.
-- Lead many distributed teams.
+- Team Lead for internationally distributed teams.
 - Created patented web frameworks in use at Verizon
+
 
 ##### Origin Technologies (Tampa, FL)
 *[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
