@@ -13,7 +13,7 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 *[Verizon](http://verizon.com) IT Division.*  
 **Senior Member Techincal Staff** (September 1997 - Present)
 
-Summary
+###### Summary
 - Developed many systems from inception to production, including all aspects of architecture, design, implementation, and support.
 - Lead many distributed teams.
 - Created patented web frameworks in use at Verizon
