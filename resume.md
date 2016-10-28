@@ -16,6 +16,7 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 ###### Highlights
 - Developed many systems from inception to production, including all aspects of architecture, design, implementation, and support.  
   **Systems (some examples)**
+  - *RFDS* - Radio Frequency Design (Java/Spring Boot, HTML5, CSS3, JavaScript)
   - *Unified User Interface* - Enterprise provisioning portal (Java, HTML5, CSS3, JavaScript)
   - *Provisioning Controller* - Enterprise orchestration (Java, HTML5, CSS3, JavaScript)
   - *BAAIS Video* - SONET provisioning  (Java, HTML, CSS, JavaScript)
@@ -36,7 +37,7 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 ### Skills
 **OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows  
 **Scripting:**  Bash and utils (sed, awk, grep), Python, Ruby  
-**Backend:** Java (J2EE), Python (Django), SQL, XML, JSON  
+**Backend:** Java (J2EE/Spring Boot), Python (Django), Go, SQL, XML, JSON  
 **Frontend:** HTML, CSS (Less and Sass), JavaScript (jQuery, ExtJS)  
 **Databases:** Oracle, MySQL, PostgreSQL, Cassandra, SQLite  
 **Web Application servers/proxies:** Apache, HAProxy, Nginx, Tomcat, Glassfish, Weblogic  
