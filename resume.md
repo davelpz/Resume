@@ -18,21 +18,28 @@ Senior Software Engineer with 24 years experience with graphical user interfaces
 - Developed patented web frameworks currently in use at Verizon.
 - Recognized by my peers as a subject matter expert in web technologies such as HTML5, CSS3,
 Javascript, jQuery, Java, SQL, and Unix.
-- System Designer: Duties included planning, designing architecture, developing, and implementing numerous systems. Focusing on user centered content that meet business and technical requirements.Team Lead for internationally distributed teams.
+- System Designer: Duties included planning, designing architecture, developing, and implementing numerous systems. Focusing on user centered content that meet business and technical requirements.Team Lead for internationally distributed teams.  
   **Systems (some examples)**
-  - *RFDS* - Radio Frequency Design (Java/Spring Boot, HTML5, CSS3, JavaScript)
-  System Architect: Responsible for planning, design, development, and implementation of a web based RFDS. Radio Frequency Engineers use RFDS to reduce the time required to implement cell tower antenna design(s).
-  - *Unified Tasking Engine* - Enterprise solution for human tasking  (Oracle SOA Suite, Java)
-  System Lead: managed an internationally distributed team to maintain a large Oracle Service Oriented Architecture (SOA) Suite solution used to automate ticket assignments of manual processes.
-  - *Unified User Interface* - Enterprise provisioning portal (Java, HTML5, CSS3, JavaScript)
+  - *RFDS* - Radio Frequency Design  
+[Java/Spring Boot, HTML5, CSS3, JavaScript, jQuery]  
+System Architect: Responsible for planning, design, development, and implementation of a web based RFDS. Radio Frequency Engineers use RFDS to reduce the time required to implement cell tower antenna design(s).
+  - *Unified Tasking Engine* - Enterprise solution for human tasking  
+[Oracle SOA Suite, Java]  
+System Lead: managed an internationally distributed team to maintain a large Oracle Service Oriented Architecture (SOA) Suite solution used to automate ticket assignments of manual processes.
+  - *Unified User Interface* - Enterprise provisioning portal  
+[Java, HTML5, CSS3, JavaScript]  
   Team Lead: managed an internationally distributed team of engineers to plan, design, develop, and implement a web portal. Worked with user group to gather, validate, and translate requirements into a technical solution.
-  - *Provisioning Controller* - Enterprise orchestration (Java, HTML5, CSS3, JavaScript)
+  - *Provisioning Controller* - Enterprise orchestration  
+[Java, HTML5, CSS3, JavaScript]  
   Team Lead: managed an internationally distributed team of engineers to maintain, re-engineer, and modernize a complex web user interface.
-  - *BAAIS Video* - SONET provisioning  (Java, HTML, CSS, JavaScript)
+  - *BAAIS Video* - SONET provisioning  
+[Java, HTML, CSS, JavaScript]  
   Graphical User Interface Team Lead: Enhanced BAAIS to perform SONET provisioning. Responsible for user interface design and implementation for a interactive web based application.
-  - *BAAIS* - DSL provisioning  (Java, Swing)
+  - *BAAIS* - DSL provisioning  
+[Java, Swing]  
   Module Lead: Enhanced Assignment Activation Inventory System (AAIS) system to perform DSL provisioning. Responsible for system and schema design, data migration, and back-end functionality supporting graphical user interface enhancements.
-  - *AAIS* - Wireline provisioning  (Java, Swing)
+  - *AAIS* - Wireline provisioning  
+[Java, Swing]  
   Module Lead: responsible for schema design, data migration, and back-end functionality supporting a graphical user interface.
 
 
