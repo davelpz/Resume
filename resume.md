@@ -6,7 +6,7 @@ davelpz@gmail.com
 http://www.linkedin.com/in/davelpz
 
 ### Summary
-Senior Software Engineer with 24 years experience  with graphical  user interfaces, user experience design, and web technologies.  Full stack skills ranging from database design to front end engineering.
+Senior Software Engineer with 24 years experience with graphical user interfaces, user experience design, and web technologies.  Full stack skills ranging from database design to front end engineering.
 
 ### Professional Experience
 ##### Verizon (Temple Terrace, FL)
@@ -14,25 +14,37 @@ Senior Software Engineer with 24 years experience  with graphical  user interfac
 **Senior Member Techincal Staff** (September 1997 - Present)
 
 ###### Highlights
-- Developed many systems from inception to production, including all aspects of architecture, design, implementation, and support.  
+- Team Lead for internationally distributed teams: Duties include project planning, scheduling, and using various management tools to control risk and costs.
+- Developed patented web frameworks currently in use at Verizon.
+- Recognized by my peers as a subject matter expert in web technologies such as HTML5, CSS3,
+Javascript, jQuery, Java, SQL, and Unix.
+- System Designer: Duties included planning, designing architecture, developing, and implementing numerous systems. Focusing on user centered content that meet business and technical requirements.Team Lead for internationally distributed teams.
   **Systems (some examples)**
   - *RFDS* - Radio Frequency Design (Java/Spring Boot, HTML5, CSS3, JavaScript)
+  System Architect: Responsible for planning, design, development, and implementation of a web based RFDS. Radio Frequency Engineers use RFDS to reduce the time required to implement cell tower antenna design(s).
+  - *Unified Tasking Engine* - Enterprise solution for human tasking  (Oracle SOA Suite, Java)
+  System Lead: managed an internationally distributed team to maintain a large Oracle Service Oriented Architecture (SOA) Suite solution used to automate ticket assignments of manual processes.
   - *Unified User Interface* - Enterprise provisioning portal (Java, HTML5, CSS3, JavaScript)
+  Team Lead: managed an internationally distributed team of engineers to plan, design, develop, and implement a web portal. Worked with user group to gather, validate, and translate requirements into a technical solution.
   - *Provisioning Controller* - Enterprise orchestration (Java, HTML5, CSS3, JavaScript)
+  Team Lead: managed an internationally distributed team of engineers to maintain, re-engineer, and modernize a complex web user interface.
   - *BAAIS Video* - SONET provisioning  (Java, HTML, CSS, JavaScript)
+  Graphical User Interface Team Lead: Enhanced BAAIS to perform SONET provisioning. Responsible for user interface design and implementation for a interactive web based application.
   - *BAAIS* - DSL provisioning  (Java, Swing)
+  Module Lead: Enhanced Assignment Activation Inventory System (AAIS) system to perform DSL provisioning. Responsible for system and schema design, data migration, and back-end functionality supporting graphical user interface enhancements.
   - *AAIS* - Wireline provisioning  (Java, Swing)
-- Team Lead for internationally distributed teams.
-- Created patented web frameworks in use at Verizon
+  Module Lead: responsible for schema design, data migration, and back-end functionality supporting a graphical user interface.
 
 
 ##### Origin Technologies (Tampa, FL)
 *[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
 **Senior Consultant** (September 1994 - September 1997)
+- Worked on systems for GTE (later acquired by Verizon) as a contractor until hired by GTE.
 
 ##### IBM (Rochester, MN)
 *[IBM](http://www.ibm.com) midrange systems division.*  
 **Software Engineer** (June 1990 - September 1994)
+- Implemented user interface for the OS/400 C++ debugger.
 
 ### Skills
 **OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows  
@@ -52,8 +64,3 @@ Patent pending - System For Developing, Testing, Deploying, And Managing Applica
 **Graduate Coursework** (January 1989 - June 1990)
 ##### University of Texas (El Paso, TX)
 **B.S. in Computer Science** (August 1984 - December 1988)
-
-
-
-
-
