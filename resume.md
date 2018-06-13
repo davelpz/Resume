@@ -46,12 +46,12 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 ##### Origin Technologies (Tampa, FL)
 *[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
 **Senior Consultant** (September 1994 - September 1997)
-  - Worked on systems for GTE (later acquired by Verizon) as a contractor until hired by GTE.
+- Worked on systems for GTE (later acquired by Verizon) as a contractor until hired by GTE.
 
 ##### IBM (Rochester, MN)
 *[IBM](http://www.ibm.com) midrange systems division.*  
 **Software Engineer** (June 1990 - September 1994)
-  - Implemented user interface for the OS/400 C++ debugger.
+- Implemented user interface for the OS/400 C++ debugger.
 
 ### Skills
 **OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows  
