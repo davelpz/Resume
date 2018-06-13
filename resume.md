@@ -18,7 +18,7 @@ Senior Software Engineer with 24 years experience with graphical user interfaces
 - Developed patented web frameworks currently in use at Verizon.
 - Recognized by my peers as a subject matter expert in web technologies such as HTML5, CSS3,
 Javascript, jQuery, Java, SQL, and Unix.
-- System Designer: Duties included planning, designing architecture, developing, and implementing numerous systems. Focusing on user centered content that meet business and technical requirements.Team Lead for internationally distributed teams.  
+- System Designer: Duties included planning, designing architecture, developing, and implementing numerous systems. Focusing on user centered content that meet business and technical requirements. Team Lead for internationally distributed teams.  
   **Systems (some examples)**
   - *RFDS* - Radio Frequency Design  
 [Java/Spring Boot, HTML5, CSS3, JavaScript, jQuery]  
