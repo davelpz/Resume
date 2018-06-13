@@ -11,7 +11,7 @@ Senior Software Engineer with 24 years experience with graphical user interfaces
 ### Professional Experience
 ##### Verizon (Temple Terrace, FL)
 *[Verizon](http://verizon.com) IT Division.*  
-**Principal Member Techincal Staff** (September 1997 - Present)
+**Principal Member Technical Staff** (September 1997 - Present)
 
 ###### Highlights
 - Senior Engineer for internationally distributed teams: Duties include project planning, scheduling, and using various management tools to control risk and costs.
