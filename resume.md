@@ -69,6 +69,5 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 ### Education
 ##### University of Texas (El Paso, TX)
 **Graduate Coursework** (January 1989 - June 1990)
-
 ##### University of Texas (El Paso, TX)
 **B.S. in Computer Science** (August 1984 - December 1988)
