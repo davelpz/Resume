@@ -6,7 +6,7 @@ davelpz@gmail.com
 http://www.linkedin.com/in/davelpz
 
 ### Summary
-Senior Software Engineer with 24 years experience with graphical user interfaces, user experience design, and web technologies.  Full stack skills ranging from database design to front end engineering.
+Senior Software Engineer with 29 years experience with graphical user interfaces, user experience design, and web technologies.  Full stack skills ranging from database design to front end engineering.
 
 ### Professional Experience
 ##### Verizon (Temple Terrace, FL)
@@ -67,7 +67,7 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 ### Patents
 **[8,452,861](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8452861.PN.&OS=PN/8452861&RS=PN/8452861)** -- Broadcast Design For Provisioning Reconfigurable Optical Add/Drop Multiplexer Circuits (*May 28, 2013*)  
 **[9,910,651](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9910651.PN.&OS=PN/9910651&RS=PN/9910651)** -- System for developing, testing, deploying, and managing applications in real-time  (*March 6, 2018*)  
-**[10,275,115](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22Lopez,+David%22.INNM.&OS=IN/%22Lopez,+David%22&RS=IN/%22Lopez,+David%22) -- Multifunction icon for user feedback including context information
+**[10,275,115](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22Lopez,+David%22.INNM.&OS=IN/%22Lopez,+David%22&RS=IN/%22Lopez,+David%22)** -- Multifunction icon for user feedback including context information
 
 ### Education
 ##### University of Texas (El Paso, TX)
@@ -75,5 +75,5 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 ##### University of Texas (El Paso, TX)
 **B.S. in Computer Science** (August 1984 - December 1988)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTI0NDA4M119
+eyJoaXN0b3J5IjpbLTE3NDIxMTgzODJdfQ==
 -->
