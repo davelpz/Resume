@@ -75,6 +75,8 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 ##### University of Texas (El Paso, TX)
 **B.S. in Computer Science** (August 1984 - December 1988)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIxMTgzODIsLTE3NDIxMTgzODJdfQ
-==
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
+VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
+XG4iLCJoaXN0b3J5IjpbLTg5Mzc5MDg5OCwtMTc0MjExODM4Mi
+wtMTc0MjExODM4Ml19
 -->
