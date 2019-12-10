@@ -6,8 +6,8 @@ System Architect: Responsible for planning, design, development, and implementat
 
  - *RFDS* - Radio Frequency Design  
 [Java/Spring Boot, HTML5, CSS3, JavaScript, jQuery]
-RFDS was a br
+RFDS is a brand new system used by radio frequency engineers for cell tower design and construction. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjMyNDg4MTAsLTIyODM4NTg3OV19
+eyJoaXN0b3J5IjpbLTUwMjIxNDI0MiwtMjI4Mzg1ODc5XX0=
 -->
