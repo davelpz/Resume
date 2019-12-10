@@ -71,7 +71,9 @@ Module Lead
   - *AAIS* - Wireline provisioning  
 [Java, Swing]  
   Module Lead: responsible for schema design, data migration, and back-end functionality supporting a graphical user interface.
-
+Module Lead
+*Duties:*
+	-   Responsible for schema design, data migration of back-end functionality, and design and implementation of UI.  
 
 ##### Origin Technologies (Tampa, FL)
 *[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
@@ -108,7 +110,7 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTUzOTgyMjY0MSwtMTY2MjQ5MDAwOC
+XG4iLCJoaXN0b3J5IjpbLTg1NjkwNDU0MiwtMTY2MjQ5MDAwOC
 wtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIxMTQwNzIzMzcsMTQz
 MzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OTM4LDcxMjI1NTM1Ni
 wtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0ODgzOTg2NSwtMzQ1
