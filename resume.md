@@ -74,15 +74,13 @@ Module Lead
 *Duties:*
 	-   Responsible for schema design, data migration of back-end functionality, and design and implementation of UI.  
 
-##### Origin Technologies (Tampa, FL)
-*[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
+### Origin Technologies (Tampa, FL) - IT Consulting
 **Senior Consultant** (September 1994 - September 1997)
 - Contract system engineer assigned to work at GTE. 
 - Worked on systems for GTE as a contractor until hired by GTE.
 - GTE was later acquired by Verizon.
 
-##### IBM (Rochester, MN)
-*[IBM](http://www.ibm.com) midrange systems division.*  
+### IBM (Rochester, MN) - Midrange systems division 
 **Software Engineer** (June 1990 - September 1994)
 
 - Implemented user interface for the OS/400 C++ debugger.
@@ -109,10 +107,10 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMTc2MjkzMjc1NiwtMTY2MjQ5MDAwOC
-wtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIxMTQwNzIzMzcsMTQz
-MzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OTM4LDcxMjI1NTM1Ni
-wtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0ODgzOTg2NSwtMzQ1
-NzMyNzg3LDY5MjQ3NDk1NCwtODkzNzkwODk4LC0xNzQyMTE4Mz
-gyLC0xNzQyMTE4MzgyXX0=
+XG4iLCJoaXN0b3J5IjpbLTE1NDA4ODczMzMsLTE2NjI0OTAwMD
+gsLTExMTQ2MzA1NzYsMTE1NzExMjM2NiwyMTE0MDcyMzM3LDE0
+MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3NjkzOCw3MTIyNTUzNT
+YsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03NDg4Mzk4NjUsLTM0
+NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MDg5OCwtMTc0MjExOD
+M4MiwtMTc0MjExODM4Ml19
 -->
