@@ -17,12 +17,11 @@ Senior Software Engineer with 29 years experience with graphical user interfaces
 **Web Application servers/proxies:** Apache, HAProxy, Nginx, Tomcat, Glassfish, Weblogic  
 **Version control systems:** Git, Mercurial, Subversion, CVS
 
-### Professional Experience
-##### Verizon (Temple Terrace, FL)
-*[Verizon](http://verizon.com) IT Division.*  
+## Professional Experience
+### Verizon (Temple Terrace, FL) - IT Division  
 **Principal Member Technical Staff** (September 1997 - March 2019)
 
-###### Highlights
+#### Highlights
 - Senior Engineer for internationally distributed teams: Duties include project planning, scheduling, and using various management tools to control scope, schedule, and costs.
 - Developed patented web frameworks currently being utilized by Verizon IT.
 - Recognized by my peers as a subject matter expert in web technologies i.e. HTML5, CSS3,
@@ -99,9 +98,9 @@ Consolidated several web applications into a single UI solution.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMjkzNDc1NTU3LDExNTcxMTIzNjYsMj
-ExNDA3MjMzNywxNDMzNTk4NDQ1LDM4MTI3NTQyNiw3MTI2NzY5
-MzgsNzEyMjU1MzU2LC01ODYyODQ5NDUsLTEyNzE1MTI2MiwtNz
-Q4ODM5ODY1LC0zNDU3MzI3ODcsNjkyNDc0OTU0LC04OTM3OTA4
-OTgsLTE3NDIxMTgzODIsLTE3NDIxMTgzODJdfQ==
+XG4iLCJoaXN0b3J5IjpbMTg2ODA3NDQwMSwxMTU3MTEyMzY2LD
+IxMTQwNzIzMzcsMTQzMzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2
+OTM4LDcxMjI1NTM1NiwtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLT
+c0ODgzOTg2NSwtMzQ1NzMyNzg3LDY5MjQ3NDk1NCwtODkzNzkw
+ODk4LC0xNzQyMTE4MzgyLC0xNzQyMTE4MzgyXX0=
 -->
