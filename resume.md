@@ -29,11 +29,12 @@ RFDS is a new system used by radio frequency engineers for cell tower design, co
 	- Worked with subject matter experts to gather requirements.
 	- Designed/Implemented several micro-services
 	- Designed/Implemented various web based screens
-  - *Unified Tasking Engine* - Enterprise solution for human tasking  from assignment to completion.   
+  - *Unified Tasking Engine* - Enterprise solution for managing human tasking from assignment to completion.   
 [Oracle SOA Suite, Java]  
 	*Duties:*
 	- System Lead: managed distributed team to maintain a large Oracle Service Oriented Architecture (SOA) Suite solution
-	- Re-engineered 
+	- Re-engineered system to micro-service based architecture
+	- 
 
  used to automate ticket assignments of manual processes.
   - *Unified User Interface* - Enterprise provisioning portal  
@@ -87,8 +88,8 @@ RFDS is a new system used by radio frequency engineers for cell tower design, co
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTIwMDk0NTg3Nyw3MTIyNTUzNTYsLT
-U4NjI4NDk0NSwtMTI3MTUxMjYyLC03NDg4Mzk4NjUsLTM0NTcz
-Mjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MDg5OCwtMTc0MjExODM4Mi
-wtMTc0MjExODM4Ml19
+XG4iLCJoaXN0b3J5IjpbOTM5MDc2NDY0LDcxMjI1NTM1NiwtNT
+g2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0ODgzOTg2NSwtMzQ1NzMy
+Nzg3LDY5MjQ3NDk1NCwtODkzNzkwODk4LC0xNzQyMTE4MzgyLC
+0xNzQyMTE4MzgyXX0=
 -->
