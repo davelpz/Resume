@@ -57,7 +57,11 @@ Team Lead
 	-   Maintained, re-engineered, and modernized a complex web user interface.
   - Broadband Assignment Activation Inventory System (BAAIS): Video - SONET provisioning  
 [Java, HTML, CSS, JavaScript]  
-  Graphical User Interface Team Lead: Enhanced BAAIS to perform SONET provisioning. Responsible for user interface design and implementation for a interactive web based application.
+Graphical User Interface Team Lead  
+*Duties:*
+	-   Managed team of UI engineers.
+	-   Responsible for user interface design and implementation for a web based application.
+	-   Enhanced the BAAIS to perform SONET provisioning.
   - *BAAIS* - DSL provisioning  
 [Java, Swing]  
   Module Lead: Enhanced Assignment Activation Inventory System (AAIS) system to perform DSL provisioning. Responsible for system and schema design, data migration, and back-end functionality supporting graphical user interface enhancements.
@@ -101,7 +105,7 @@ Team Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMTA0NTg1MDE1NSwtMTY2MjQ5MDAwOC
+XG4iLCJoaXN0b3J5IjpbMTI4OTI3NzM2NCwtMTY2MjQ5MDAwOC
 wtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIxMTQwNzIzMzcsMTQz
 MzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OTM4LDcxMjI1NTM1Ni
 wtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0ODgzOTg2NSwtMzQ1
