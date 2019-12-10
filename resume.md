@@ -84,29 +84,20 @@ Module Lead
 **Software Engineer** (June 1990 - September 1994)
 - Implemented user interface for the OS/400 C++ debugger.
 
-### Skills
-**OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows  
-**Scripting:**  Bash and utils (sed, awk, grep), Python, Ruby  
-**Backend:** Java (J2EE/Spring Boot), Python (Django), Go, SQL, XML, JSON  
-**Frontend:** HTML, CSS (Less and Sass), JavaScript (jQuery, ExtJS)  
-**Databases:** Oracle, MySQL, PostgreSQL, Cassandra, SQLite  
-**Web Application servers/proxies:** Apache, HAProxy, Nginx, Tomcat, Glassfish, Weblogic  
-**Version control systems:** Git, Mercurial, Subversion, CVS
-
-### Patents
+## Patents
 **[8,452,861](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8452861.PN.&OS=PN/8452861&RS=PN/8452861)** -- Broadcast Design For Provisioning Reconfigurable Optical Add/Drop Multiplexer Circuits (*May 28, 2013*)  
 **[9,910,651](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9910651.PN.&OS=PN/9910651&RS=PN/9910651)** -- System for developing, testing, deploying, and managing applications in real-time  (*March 6, 2018*)  
 **[10,275,115](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22Lopez,+David%22.INNM.&OS=IN/%22Lopez,+David%22&RS=IN/%22Lopez,+David%22)** -- Multifunction icon for user feedback including context information
 
-### Education
-##### University of Texas (El Paso, TX)
+## Education
+### University of Texas (El Paso, TX)
 **Graduate Coursework** (January 1989 - June 1990)
-##### University of Texas (El Paso, TX)
+### University of Texas (El Paso, TX)
 **B.S. in Computer Science** (August 1984 - December 1988)
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTE0NTM0NDUzNjcsLTE2NjI0OTAwMD
+XG4iLCJoaXN0b3J5IjpbLTEzOTk4MjQzNzQsLTE2NjI0OTAwMD
 gsLTExMTQ2MzA1NzYsMTE1NzExMjM2NiwyMTE0MDcyMzM3LDE0
 MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3NjkzOCw3MTIyNTUzNT
 YsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03NDg4Mzk4NjUsLTM0
