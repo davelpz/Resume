@@ -10,9 +10,10 @@ RFDS is a new system used by radio frequency engineers for cell tower design and
 
 	*Duties:*
 	- System Architect from system conception to production deployment
-	- 
+	- Worked with subject matter 
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTA3MTE3MCwxOTY0MzAyNjU2LDEyMj
-czMDgwNDMsLTUwMjIxNDI0MiwtMjI4Mzg1ODc5XX0=
+eyJoaXN0b3J5IjpbMTMxNzc1MzExNSwtODU1MDcxMTcwLDE5Nj
+QzMDI2NTYsMTIyNzMwODA0MywtNTAyMjE0MjQyLC0yMjgzODU4
+NzldfQ==
 -->
