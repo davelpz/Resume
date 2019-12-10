@@ -53,10 +53,8 @@ Consolidated several web applications into a single UI solution.
 [Java, HTML5, CSS3, JavaScript]
 Team Lead  
  *Duties:*
-
--   Managed distributed team of engineers.
--   Maintained, re-engineered, and modernized a complex web user interface.
-  Team Lead: managed an internationally distributed team of engineers to maintain, re-engineer, and modernize a complex web user interface.
+	-   Managed distributed team of engineers.
+	-   Maintained, re-engineered, and modernized a complex web user interface.
   - *BAAIS Video* - SONET provisioning  
 [Java, HTML, CSS, JavaScript]  
   Graphical User Interface Team Lead: Enhanced BAAIS to perform SONET provisioning. Responsible for user interface design and implementation for a interactive web based application.
@@ -103,7 +101,7 @@ Team Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMTY5Nzg5NTIzMCwtMTY2MjQ5MDAwOC
+XG4iLCJoaXN0b3J5IjpbMTE2Mjg2NTI0MywtMTY2MjQ5MDAwOC
 wtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIxMTQwNzIzMzcsMTQz
 MzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OTM4LDcxMjI1NTM1Ni
 wtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0ODgzOTg2NSwtMzQ1
