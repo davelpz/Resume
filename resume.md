@@ -36,7 +36,7 @@ RFDS is a new system used by radio frequency engineers for cell tower design, co
 	- Re-engineered system to micro-service based architecture and replaced the Oracle SOA solution for substantial cost savings.
   - *Unified User Interface* - Enterprise provisioning portal
 [Java, HTML5, CSS3, JavaScript]
-Consolidated several web applications into one single
+Consolidated several web applications into a single UI solution.
   *Duties:*
 	  - Team Lead: managed an internationally distributed team of engineers.
 	  - Worked with subject mater experts to gather, validate, and engineer a technical solution.
@@ -89,9 +89,9 @@ Consolidated several web applications into one single
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMzUxNDI0MjU3LDE0MzM1OTg0NDUsMz
-gxMjc1NDI2LDcxMjY3NjkzOCw3MTIyNTUzNTYsLTU4NjI4NDk0
-NSwtMTI3MTUxMjYyLC03NDg4Mzk4NjUsLTM0NTczMjc4Nyw2OT
-I0NzQ5NTQsLTg5Mzc5MDg5OCwtMTc0MjExODM4MiwtMTc0MjEx
-ODM4Ml19
+XG4iLCJoaXN0b3J5IjpbMjExNDA3MjMzNywxNDMzNTk4NDQ1LD
+M4MTI3NTQyNiw3MTI2NzY5MzgsNzEyMjU1MzU2LC01ODYyODQ5
+NDUsLTEyNzE1MTI2MiwtNzQ4ODM5ODY1LC0zNDU3MzI3ODcsNj
+kyNDc0OTU0LC04OTM3OTA4OTgsLTE3NDIxMTgzODIsLTE3NDIx
+MTgzODJdfQ==
 -->
