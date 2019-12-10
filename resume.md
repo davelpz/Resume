@@ -14,7 +14,7 @@ Senior Software Engineer with 29 years experience with graphical user interfaces
 **Principal Member Technical Staff** (September 1997 - March 2019)
 
 ###### Highlights
-- Senior Engineer for internationally distributed teams: Duties include project planning, scheduling, and using various management tools to control risk and costs.
+- Senior Engineer for internationally distributed teams: Duties include project planning, scheduling, and using various management tools to control scope, schedule, and costs.
 - Developed patented web frameworks currently in use at Verizon.
 - Recognized by my peers as a subject matter expert in web technologies such as HTML5, CSS3,
 Javascript, jQuery, Java, SQL, and Unix.
@@ -77,7 +77,6 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTEyNTY0MTc1NDUsNjkyNDc0OTU0LC
-04OTM3OTA4OTgsLTE3NDIxMTgzODIsLTE3NDIxMTgzODJdfQ==
-
+XG4iLCJoaXN0b3J5IjpbMTMzODQ3Mjc5Myw2OTI0NzQ5NTQsLT
+g5Mzc5MDg5OCwtMTc0MjExODM4MiwtMTc0MjExODM4Ml19
 -->
