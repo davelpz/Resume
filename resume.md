@@ -1,12 +1,21 @@
-### David Lopez
+# David Lopez
 
 8318 Archwood Circle, Tampa, FL 33615  
 (813) 351-9084  
 davelpz@gmail.com  
 http://www.linkedin.com/in/davelpz
 
-### Summary
+## Summary
 Senior Software Engineer with 29 years experience with graphical user interfaces, user experience design, and web technologies.  Full stack skills ranging from database design to front end engineering.
+
+## Skills
+**OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows  
+**Scripting:**  Bash and utils (sed, awk, grep), Python, Ruby  
+**Backend:** Java (J2EE/Spring Boot), Python (Django), Go, SQL, XML, JSON  
+**Frontend:** HTML, CSS (Less and Sass), JavaScript (jQuery, ExtJS)  
+**Databases:** Oracle, MySQL, PostgreSQL, Cassandra, SQLite  
+**Web Application servers/proxies:** Apache, HAProxy, Nginx, Tomcat, Glassfish, Weblogic  
+**Version control systems:** Git, Mercurial, Subversion, CVS
 
 ### Professional Experience
 ##### Verizon (Temple Terrace, FL)
@@ -90,9 +99,9 @@ Consolidated several web applications into a single UI solution.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMTE1NzExMjM2NiwyMTE0MDcyMzM3LD
-E0MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3NjkzOCw3MTIyNTUz
-NTYsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03NDg4Mzk4NjUsLT
-M0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MDg5OCwtMTc0MjEx
-ODM4MiwtMTc0MjExODM4Ml19
+XG4iLCJoaXN0b3J5IjpbMjkzNDc1NTU3LDExNTcxMTIzNjYsMj
+ExNDA3MjMzNywxNDMzNTk4NDQ1LDM4MTI3NTQyNiw3MTI2NzY5
+MzgsNzEyMjU1MzU2LC01ODYyODQ5NDUsLTEyNzE1MTI2MiwtNz
+Q4ODM5ODY1LC0zNDU3MzI3ODcsNjkyNDc0OTU0LC04OTM3OTA4
+OTgsLTE3NDIxMTgzODIsLTE3NDIxMTgzODJdfQ==
 -->
