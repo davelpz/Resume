@@ -82,7 +82,6 @@ Module Lead
 
 ### IBM (Rochester, MN) - Midrange systems division 
 **Software Engineer** (June 1990 - September 1994)
-
 - Implemented user interface for the OS/400 C++ debugger.
 
 ### Skills
@@ -107,7 +106,7 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTE1NDA4ODczMzMsLTE2NjI0OTAwMD
+XG4iLCJoaXN0b3J5IjpbLTE0NTM0NDUzNjcsLTE2NjI0OTAwMD
 gsLTExMTQ2MzA1NzYsMTE1NzExMjM2NiwyMTE0MDcyMzM3LDE0
 MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3NjkzOCw3MTIyNTUzNT
 YsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03NDg4Mzk4NjUsLTM0
