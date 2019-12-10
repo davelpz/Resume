@@ -33,7 +33,7 @@ RFDS is a new system used by radio frequency engineers for cell tower design, co
 [Oracle SOA Suite, Java]  
 	*Duties:*
 	- System Lead: managed distributed team to maintain a large Oracle Service Oriented Architecture (SOA) Suite solution
-	- Re-engineered system to micro-service based architecture
+	- Re-engineered system to micro-service based architecture and replaced the Oracle SOA solution for cost savings.
   - *Unified User Interface* - Enterprise provisioning portal  
 [Java, HTML5, CSS3, JavaScript]  
   Team Lead: managed an internationally distributed team of engineers to plan, design, develop, and implement a web portal. Worked with user group to gather, validate, and translate requirements into a technical solution.
@@ -85,8 +85,8 @@ RFDS is a new system used by radio frequency engineers for cell tower design, co
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTEyODg3Njk5NzEsNzEyNjc2OTM4LD
-cxMjI1NTM1NiwtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0ODgz
-OTg2NSwtMzQ1NzMyNzg3LDY5MjQ3NDk1NCwtODkzNzkwODk4LC
-0xNzQyMTE4MzgyLC0xNzQyMTE4MzgyXX0=
+XG4iLCJoaXN0b3J5IjpbMzgxMjc1NDI2LDcxMjY3NjkzOCw3MT
+IyNTUzNTYsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03NDg4Mzk4
+NjUsLTM0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MDg5OCwtMT
+c0MjExODM4MiwtMTc0MjExODM4Ml19
 -->
