@@ -19,7 +19,8 @@ Senior Software Engineer with 29 years experience with graphical user interfaces
 - Recognized by my peers as a subject matter expert in web technologies i.e. HTML5, CSS3,
 Javascript, jQuery, Java, SQL, and Unix.
 - System Designer: Duties included planning, architecture design, development and implementation of various systems. Focused centered on user content fulfilling business and technical requirements. Team Lead for distributed teams.
-  **Systems (some examples)**
+
+	**Systems (some examples)**
   - *RFDS* - Radio Frequency Design System
 [Java/Spring Boot, HTML5, CSS3, JavaScript, jQuery]  
 System Architect: Responsible for planning, design, development, and implementation of a web based RFDS. Radio Frequency Engineers use RFDS to reduce the time required to implement cell tower antenna design(s).
@@ -77,6 +78,6 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMTk2Mzc5MDk2Nyw2OTI0NzQ5NTQsLT
+XG4iLCJoaXN0b3J5IjpbLTM0NTczMjc4Nyw2OTI0NzQ5NTQsLT
 g5Mzc5MDg5OCwtMTc0MjExODM4MiwtMTc0MjExODM4Ml19
 -->
