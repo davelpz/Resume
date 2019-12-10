@@ -23,7 +23,7 @@ Javascript, jQuery, Java, SQL, and Unix.
 ##### Systems (some examples)
   - *RFDS* - Radio Frequency Design System
 [Java/Spring Boot, HTML5, CSS3, JavaScript, jQuery]  
-RFDS is a new system used by radio frequency engineers for cell tower design, construction, deploymen and maintenance.  
+RFDS is a new system used by radio frequency engineers for cell tower design, construction, deployment,  and maintenance.  
 	*Duties:*
 	- System Architect from system conception to production deployment
 	- Worked with subject matter experts to gather requirements.
@@ -83,7 +83,7 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTE2Mjc3OTEwMjMsLTEyNzE1MTI2Mi
-wtNzQ4ODM5ODY1LC0zNDU3MzI3ODcsNjkyNDc0OTU0LC04OTM3
-OTA4OTgsLTE3NDIxMTgzODIsLTE3NDIxMTgzODJdfQ==
+XG4iLCJoaXN0b3J5IjpbLTQ5NTEwOTQ0MywtMTI3MTUxMjYyLC
+03NDg4Mzk4NjUsLTM0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5
+MDg5OCwtMTc0MjExODM4MiwtMTc0MjExODM4Ml19
 -->
