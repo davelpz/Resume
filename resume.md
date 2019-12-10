@@ -49,8 +49,13 @@ Consolidated several web applications into a single UI solution.
 	  - Team Lead: managed distributed team of engineers.
 	  - Worked with subject mater experts to gather, validate, and engineer a technical solution.
 	  - Planned, designed, developed, and implemented web UI.
-  - *Provisioning Controller* - Enterprise orchestration  
-[Java, HTML5, CSS3, JavaScript]  
+  - *Provisioning Controller* - Enterprise business process manager  
+[Java, HTML5, CSS3, JavaScript]
+Team Lead  
+ *Duties:*
+
+-   Managed distributed team of engineers.
+-   Maintained, re-engineered, and modernized a complex web user interface.
   Team Lead: managed an internationally distributed team of engineers to maintain, re-engineer, and modernize a complex web user interface.
   - *BAAIS Video* - SONET provisioning  
 [Java, HTML, CSS, JavaScript]  
@@ -98,10 +103,10 @@ Consolidated several web applications into a single UI solution.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTEzMjY5MDYxMzUsLTE2NjI0OTAwMD
-gsLTExMTQ2MzA1NzYsMTE1NzExMjM2NiwyMTE0MDcyMzM3LDE0
-MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3NjkzOCw3MTIyNTUzNT
-YsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03NDg4Mzk4NjUsLTM0
-NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MDg5OCwtMTc0MjExOD
-M4MiwtMTc0MjExODM4Ml19
+XG4iLCJoaXN0b3J5IjpbMTY5Nzg5NTIzMCwtMTY2MjQ5MDAwOC
+wtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIxMTQwNzIzMzcsMTQz
+MzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OTM4LDcxMjI1NTM1Ni
+wtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0ODgzOTg2NSwtMzQ1
+NzMyNzg3LDY5MjQ3NDk1NCwtODkzNzkwODk4LC0xNzQyMTE4Mz
+gyLC0xNzQyMTE4MzgyXX0=
 -->
