@@ -58,8 +58,8 @@ Consolidated several web applications into a single UI solution.
 ##### Origin Technologies (Tampa, FL)
 *[Origin Technologies](http://www.origintechnologies.com/) IT Consulting.*  
 **Senior Consultant** (September 1994 - September 1997)
-- Contract system engineer working assigned to work at GTE. 
-- Worked on systems for GTE (later acquired by Verizon) as a contractor until hired by GTE.
+- Contract system engineer assigned to work at GTE. 
+- Worked on systems for GTE as a contractor until hired by GTE.
 
 ##### IBM (Rochester, MN)
 *[IBM](http://www.ibm.com) midrange systems division.*  
@@ -89,9 +89,9 @@ Consolidated several web applications into a single UI solution.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMTMzNzM5NTUyMCwyMTE0MDcyMzM3LD
-E0MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3NjkzOCw3MTIyNTUz
-NTYsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03NDg4Mzk4NjUsLT
-M0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MDg5OCwtMTc0MjEx
-ODM4MiwtMTc0MjExODM4Ml19
+XG4iLCJoaXN0b3J5IjpbLTIwMDM1NjUxMjgsMjExNDA3MjMzNy
+wxNDMzNTk4NDQ1LDM4MTI3NTQyNiw3MTI2NzY5MzgsNzEyMjU1
+MzU2LC01ODYyODQ5NDUsLTEyNzE1MTI2MiwtNzQ4ODM5ODY1LC
+0zNDU3MzI3ODcsNjkyNDc0OTU0LC04OTM3OTA4OTgsLTE3NDIx
+MTgzODIsLTE3NDIxMTgzODJdfQ==
 -->
