@@ -28,7 +28,7 @@ RFDS is a new system used by radio frequency engineers for cell tower design, co
 	- System Architect from system conception to production deployment
 	- Worked with subject matter experts to gather requirements.
 	- Designed/Implemented several micro-services
-	- Designed/Implemented various UI screens
+	- Designed/Implemented various web based screens
   - *Unified Tasking Engine* - Enterprise solution for human tasking  
 [Oracle SOA Suite, Java]  
 System Lead: managed an internationally distributed team to maintain a large Oracle Service Oriented Architecture (SOA) Suite solution used to automate ticket assignments of manual processes.
@@ -83,7 +83,7 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMTQ3NjY1MDc3OCwtMTI3MTUxMjYyLC
+XG4iLCJoaXN0b3J5IjpbLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC
 03NDg4Mzk4NjUsLTM0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5
 MDg5OCwtMTc0MjExODM4MiwtMTc0MjExODM4Ml19
 -->
