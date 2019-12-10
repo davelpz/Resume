@@ -23,7 +23,12 @@ Javascript, jQuery, Java, SQL, and Unix.
 	**Systems (some examples)**
   - *RFDS* - Radio Frequency Design System
 [Java/Spring Boot, HTML5, CSS3, JavaScript, jQuery]  
-System Architect: Responsible for planning, design, development, and implementation of a web based RFDS. Radio Frequency Engineers use RFDS to reduce the time required to implement cell tower antenna design(s).
+RFDS is a new system used by radio frequency engineers for cell tower design, construction, and maintenance.  
+	*Duties:*
+	- System Architect from system conception to production deployment
+	- Worked with subject matter experts to gather requirements.
+	- Designed/Implemented several micro-services
+	- Designed/Implemented front end screens
   - *Unified Tasking Engine* - Enterprise solution for human tasking  
 [Oracle SOA Suite, Java]  
 System Lead: managed an internationally distributed team to maintain a large Oracle Service Oriented Architecture (SOA) Suite solution used to automate ticket assignments of manual processes.
@@ -78,7 +83,7 @@ System Lead: managed an internationally distributed team to maintain a large Ora
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTY4NDI2NzU1MSwtMzQ1NzMyNzg3LD
+XG4iLCJoaXN0b3J5IjpbLTc0ODgzOTg2NSwtMzQ1NzMyNzg3LD
 Y5MjQ3NDk1NCwtODkzNzkwODk4LC0xNzQyMTE4MzgyLC0xNzQy
 MTE4MzgyXX0=
 -->
