@@ -41,15 +41,14 @@ System built using Oracle SOA Suite, and Java
 	*Duties:*
 	- System Lead: managed distributed team to maintain a large Oracle Service Oriented Architecture (SOA) Suite solution
 	- Re-engineered system to micro-service based architecture and replaced the Oracle SOA solution resulting in substantial cost savings.
-  - *Unified User Interface (UUI) - Enterprise web portal
-[Java, HTML5, CSS3, JavaScript]
-Consolidated several web applications into a single UI solution.
-  *Duties:*
+  - *Unified User Interface (UUI)* - Enterprise web portal
+UUI consolidated several web applications into a single UI solution.  
+System built with Java, HTML5, CSS3, JavaScript, and jQuery.  *Duties:*
 	  - Team Lead: managed distributed team of engineers.
 	  - Worked with subject mater experts to gather, validate, and engineer a technical solution.
 	  - Planned, designed, developed, and implemented web UI.
   - *Provisioning Controller* - Enterprise business process manager  
-[Java, HTML5, CSS3, JavaScript]
+System built using Java, HTML5, CSS3, andJavaScript.
 Team Lead  
  *Duties:*
 	-   Managed distributed team of engineers.
@@ -96,7 +95,7 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTE1OTgwMjAzNTcsLTEzOTk4MjQzNz
+XG4iLCJoaXN0b3J5IjpbLTE2MzYwOTQ2MjYsLTEzOTk4MjQzNz
 QsLTE2NjI0OTAwMDgsLTExMTQ2MzA1NzYsMTE1NzExMjM2Niwy
 MTE0MDcyMzM3LDE0MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3Nj
 kzOCw3MTIyNTUzNTYsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03
