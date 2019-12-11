@@ -29,8 +29,8 @@ Senior software engineer with extensive experience in UX (user experience) and U
  
 #### Systems (some examples)
   - *RFDS* - Radio Frequency Design System
-[Java/Spring Boot, HTML5, CSS3, JavaScript, jQuery]  
 RFDS is a new system used by radio frequency engineers for cell tower design, construction, deployment,  and maintenance.  
+SysteJava/Spring Boot, HTML5, CSS3, JavaScript, and jQuery.
 *Duties:*
 	- System Architect from system conception to production deployment
 	- Worked with subject matter experts to gather requirements.
@@ -96,10 +96,10 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbMTUwNzMwNjcyMSwtMTM5OTgyNDM3NC
-wtMTY2MjQ5MDAwOCwtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIx
-MTQwNzIzMzcsMTQzMzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OT
-M4LDcxMjI1NTM1NiwtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0
-ODgzOTg2NSwtMzQ1NzMyNzg3LDY5MjQ3NDk1NCwtODkzNzkwOD
-k4LC0xNzQyMTE4MzgyLC0xNzQyMTE4MzgyXX0=
+XG4iLCJoaXN0b3J5IjpbNjUyMTQzOTAyLC0xMzk5ODI0Mzc0LC
+0xNjYyNDkwMDA4LC0xMTE0NjMwNTc2LDExNTcxMTIzNjYsMjEx
+NDA3MjMzNywxNDMzNTk4NDQ1LDM4MTI3NTQyNiw3MTI2NzY5Mz
+gsNzEyMjU1MzU2LC01ODYyODQ5NDUsLTEyNzE1MTI2MiwtNzQ4
+ODM5ODY1LC0zNDU3MzI3ODcsNjkyNDc0OTU0LC04OTM3OTA4OT
+gsLTE3NDIxMTgzODIsLTE3NDIxMTgzODJdfQ==
 -->
