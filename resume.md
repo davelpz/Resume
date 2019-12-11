@@ -67,7 +67,7 @@ Module Lead
 	-   Enhanced Assignment Activation Inventory System (AAIS) to perform DSL provisioning.
 	-   Responsible for system and schema design, data migration, and back-end functionality supporting graphical user interface enhancements.
   - *AAIS* - Wireline provisioning  
-[Java, Swing]
+System built using Java, and Swing
 Module Lead
 *Duties:*
 	-   Responsible for schema design, data migration of back-end functionality, and design and implementation of UI.  
@@ -85,7 +85,7 @@ Module Lead
 ## Patents
 **[8,452,861](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8452861.PN.&OS=PN/8452861&RS=PN/8452861)** -- Broadcast Design For Provisioning Reconfigurable Optical Add/Drop Multiplexer Circuits (*May 28, 2013*)  
 **[9,910,651](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9910651.PN.&OS=PN/9910651&RS=PN/9910651)** -- System for developing, testing, deploying, and managing applications in real-time  (*March 6, 2018*)  
-**[10,275,115](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22Lopez,+David%22.INNM.&OS=IN/%22Lopez,+David%22&RS=IN/%22Lopez,+David%22)** -- Multifunction icon for user feedback including context information
+**[10,275,115](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22Lopez,+David%22.INNM.&OS=IN/%22Lopez,+David%22&RS=IN/%22Lopez,+David%22)** -- Multifunction icon for user feedback including context information (*April 30, 2019*)
 
 ## Education
 ### University of Texas (El Paso, TX)
@@ -95,10 +95,10 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTgwMjUzNjYwMywtMTM5OTgyNDM3NC
-wtMTY2MjQ5MDAwOCwtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIx
-MTQwNzIzMzcsMTQzMzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OT
-M4LDcxMjI1NTM1NiwtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0
-ODgzOTg2NSwtMzQ1NzMyNzg3LDY5MjQ3NDk1NCwtODkzNzkwOD
-k4LC0xNzQyMTE4MzgyLC0xNzQyMTE4MzgyXX0=
+XG4iLCJoaXN0b3J5IjpbLTEyMzkzNDM0NTEsLTEzOTk4MjQzNz
+QsLTE2NjI0OTAwMDgsLTExMTQ2MzA1NzYsMTE1NzExMjM2Niwy
+MTE0MDcyMzM3LDE0MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3Nj
+kzOCw3MTIyNTUzNTYsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03
+NDg4Mzk4NjUsLTM0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MD
+g5OCwtMTc0MjExODM4MiwtMTc0MjExODM4Ml19
 -->
