@@ -12,9 +12,9 @@ Senior software engineer with extensive experience in UX (user experience) and U
 **Frontend:** HTML, CSS (Less and Sass), JavaScript (jQuery, ExtJS)  
 **Backend:** Java (J2EE/Spring Boot), Python (Django), Go, SQL, XML, JSON  
 **Databases:** Oracle, MySQL, PostgreSQL, Cassandra, SQLite  
+**Web Application servers/proxies:** Apache, HAProxy, Nginx, Tomcat, Glassfish, Weblogic  
 **OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows  
 **Scripting:**  Bash and utils (sed, awk, grep), Python, Ruby  
-**Web Application servers/proxies:** Apache, HAProxy, Nginx, Tomcat, Glassfish, Weblogic  
 **Version control systems:** Git, Mercurial, Subversion, CVS
 
 ## Professional Experience
@@ -22,12 +22,11 @@ Senior software engineer with extensive experience in UX (user experience) and U
 **Principal Member Technical Staff** (September 1997 - March 2019)
 
 #### Highlights
-- Senior Engineer for internationally distributed teams: Duties include project planning, scheduling, and using various management tools to control scope, schedule, and costs.
-- Developed patented web frameworks currently being utilized by Verizon IT.
-- Recognized by my peers as a subject matter expert in web technologies i.e. HTML5, CSS3,
-Javascript, jQuery, Java, SQL, and Unix.
-- System Designer: Duties included planning, architectural design, development and implementation of various systems. Focused centered on user content fulfilling business and technical requirements. Team Lead for distributed teams.
-
+-   Senior Engineer for geographically distributed teams: Duties include project planning, scheduling, and using various management tools to control scope, schedule, and costs.
+-   Developed patented web frameworks currently being utilized by Verizon IT.
+-   Recognized by my peers as a subject matter expert in web technologies i.e. HTML5, CSS3, Javascript, jQuery, Java, SQL, and Unix.
+-   System Designer: Duties included planning, architectural design, development and implementation of various systems. Worked directly with business owners to fulfill business and technical requirements.
+- 
 #### Systems (some examples)
   - *RFDS* - Radio Frequency Design System
 [Java/Spring Boot, HTML5, CSS3, JavaScript, jQuery]  
@@ -97,10 +96,10 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTE5NDExODkwNjksLTEzOTk4MjQzNz
-QsLTE2NjI0OTAwMDgsLTExMTQ2MzA1NzYsMTE1NzExMjM2Niwy
-MTE0MDcyMzM3LDE0MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3Nj
-kzOCw3MTIyNTUzNTYsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03
-NDg4Mzk4NjUsLTM0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MD
-g5OCwtMTc0MjExODM4MiwtMTc0MjExODM4Ml19
+XG4iLCJoaXN0b3J5IjpbLTMwMjcwNDc0NiwtMTM5OTgyNDM3NC
+wtMTY2MjQ5MDAwOCwtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIx
+MTQwNzIzMzcsMTQzMzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OT
+M4LDcxMjI1NTM1NiwtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0
+ODgzOTg2NSwtMzQ1NzMyNzg3LDY5MjQ3NDk1NCwtODkzNzkwOD
+k4LC0xNzQyMTE4MzgyLC0xNzQyMTE4MzgyXX0=
 -->
