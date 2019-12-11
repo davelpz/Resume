@@ -26,7 +26,7 @@ Senior software engineer with extensive experience in UX (user experience) and U
 -   Developed patented web frameworks currently being utilized by Verizon IT.
 -   Recognized by my peers as a subject matter expert in web technologies i.e. HTML5, CSS3, Javascript, jQuery, Java, SQL, and Unix.
 -   System Designer: Duties included planning, architectural design, development and implementation of various systems. Worked directly with business owners to fulfill business and technical requirements.
-- 
+ 
 #### Systems (some examples)
   - *RFDS* - Radio Frequency Design System
 [Java/Spring Boot, HTML5, CSS3, JavaScript, jQuery]  
@@ -96,7 +96,7 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTMwMjcwNDc0NiwtMTM5OTgyNDM3NC
+XG4iLCJoaXN0b3J5IjpbMTUwNzMwNjcyMSwtMTM5OTgyNDM3NC
 wtMTY2MjQ5MDAwOCwtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIx
 MTQwNzIzMzcsMTQzMzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OT
 M4LDcxMjI1NTM1NiwtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0
