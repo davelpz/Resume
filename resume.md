@@ -48,20 +48,20 @@ System built with Java, HTML5, CSS3, JavaScript, and jQuery.  *Duties:*
 	  - Worked with subject mater experts to gather, validate, and engineer a technical solution.
 	  - Planned, designed, developed, and implemented web UI.
   - *Provisioning Controller* - Enterprise business process manager  
-System built using Java, HTML5, CSS3, andJavaScript.
+System built using Java, HTML5, CSS3, and JavaScript.
 Team Lead  
  *Duties:*
 	-   Managed distributed team of engineers.
 	-   Maintained, re-engineered, and modernized a complex web user interface.
-  - Broadband Assignment Activation Inventory System (BAAIS): Video - SONET provisioning  
-[Java, HTML, CSS, JavaScript]  
+  - Broadband Assignment Activation Inventory System (BAAIS) - SONET provisioning  
+BAAIS system re-built using Java, HTML, CSS, and JavaScript.  
 Graphical User Interface Team Lead  
 *Duties:*
 	-   Managed team of UI engineers.
 	-   Responsible for user interface design and implementation for a web based application.
 	-   Enhanced the BAAIS to perform SONET provisioning.
   - *BAAIS* - DSL provisioning  
-[Java, Swing]  
+System built using Java, and Swing
 Module Lead
 *Duties:*
 	-   Enhanced Assignment Activation Inventory System (AAIS) to perform DSL provisioning.
@@ -95,10 +95,10 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTE2MzYwOTQ2MjYsLTEzOTk4MjQzNz
-QsLTE2NjI0OTAwMDgsLTExMTQ2MzA1NzYsMTE1NzExMjM2Niwy
-MTE0MDcyMzM3LDE0MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3Nj
-kzOCw3MTIyNTUzNTYsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03
-NDg4Mzk4NjUsLTM0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MD
-g5OCwtMTc0MjExODM4MiwtMTc0MjExODM4Ml19
+XG4iLCJoaXN0b3J5IjpbLTgwMjUzNjYwMywtMTM5OTgyNDM3NC
+wtMTY2MjQ5MDAwOCwtMTExNDYzMDU3NiwxMTU3MTEyMzY2LDIx
+MTQwNzIzMzcsMTQzMzU5ODQ0NSwzODEyNzU0MjYsNzEyNjc2OT
+M4LDcxMjI1NTM1NiwtNTg2Mjg0OTQ1LC0xMjcxNTEyNjIsLTc0
+ODgzOTg2NSwtMzQ1NzMyNzg3LDY5MjQ3NDk1NCwtODkzNzkwOD
+k4LC0xNzQyMTE4MzgyLC0xNzQyMTE4MzgyXX0=
 -->
