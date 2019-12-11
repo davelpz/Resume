@@ -30,18 +30,18 @@ Senior software engineer with extensive experience in UX (user experience) and U
 #### Systems (some examples)
   - *RFDS* - Radio Frequency Design System
 RFDS is a new system used by radio frequency engineers for cell tower design, construction, deployment,  and maintenance.  
-SysteJava/Spring Boot, HTML5, CSS3, JavaScript, and jQuery.
+System built using Java/Spring Boot, HTML5, CSS3, JavaScript, and jQuery.
 *Duties:*
 	- System Architect from system conception to production deployment
 	- Worked with subject matter experts to gather requirements.
 	- Designed/Implemented several micro-services
 	- Designed/Implemented various web based screens
   - *Unified Tasking Engine* - Enterprise solution for managing tickets of manual tasks from assignment to completion.   
-[Oracle SOA Suite, Java]  
+System built using Oracle SOA Suite, and Java
 	*Duties:*
 	- System Lead: managed distributed team to maintain a large Oracle Service Oriented Architecture (SOA) Suite solution
 	- Re-engineered system to micro-service based architecture and replaced the Oracle SOA solution resulting in substantial cost savings.
-  - *Unified User Interface* - Enterprise web portal
+  - *Unified User Interface (UUI) - Enterprise web portal
 [Java, HTML5, CSS3, JavaScript]
 Consolidated several web applications into a single UI solution.
   *Duties:*
@@ -96,10 +96,10 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbNjUyMTQzOTAyLC0xMzk5ODI0Mzc0LC
-0xNjYyNDkwMDA4LC0xMTE0NjMwNTc2LDExNTcxMTIzNjYsMjEx
-NDA3MjMzNywxNDMzNTk4NDQ1LDM4MTI3NTQyNiw3MTI2NzY5Mz
-gsNzEyMjU1MzU2LC01ODYyODQ5NDUsLTEyNzE1MTI2MiwtNzQ4
-ODM5ODY1LC0zNDU3MzI3ODcsNjkyNDc0OTU0LC04OTM3OTA4OT
-gsLTE3NDIxMTgzODIsLTE3NDIxMTgzODJdfQ==
+XG4iLCJoaXN0b3J5IjpbLTE1OTgwMjAzNTcsLTEzOTk4MjQzNz
+QsLTE2NjI0OTAwMDgsLTExMTQ2MzA1NzYsMTE1NzExMjM2Niwy
+MTE0MDcyMzM3LDE0MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3Nj
+kzOCw3MTIyNTUzNTYsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03
+NDg4Mzk4NjUsLTM0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MD
+g5OCwtMTc0MjExODM4MiwtMTc0MjExODM4Ml19
 -->
