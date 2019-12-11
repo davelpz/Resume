@@ -6,14 +6,14 @@ davelpz@gmail.com
 http://www.linkedin.com/in/davelpz
 
 ## Summary
-Senior Software Engineer with 29 years experience with graphical user interfaces, user experience design, and web technologies.  Full stack skills ranging from database design to front end engineering.
+Senior software engineer with extensive experience in UX (user experience) and UI (user interface) design and full stack web development.
 
 ## Skills
+**Frontend:** HTML, CSS (Less and Sass), JavaScript (jQuery, ExtJS)  
+**Backend:** Java (J2EE/Spring Boot), Python (Django), Go, SQL, XML, JSON  
+**Databases:** Oracle, MySQL, PostgreSQL, Cassandra, SQLite  
 **OS:** Linux (Red Hat and Debian variants), Mac OS X, Windows  
 **Scripting:**  Bash and utils (sed, awk, grep), Python, Ruby  
-**Backend:** Java (J2EE/Spring Boot), Python (Django), Go, SQL, XML, JSON  
-**Frontend:** HTML, CSS (Less and Sass), JavaScript (jQuery, ExtJS)  
-**Databases:** Oracle, MySQL, PostgreSQL, Cassandra, SQLite  
 **Web Application servers/proxies:** Apache, HAProxy, Nginx, Tomcat, Glassfish, Weblogic  
 **Version control systems:** Git, Mercurial, Subversion, CVS
 
@@ -97,10 +97,10 @@ Module Lead
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IERhdmlkIExvcGV6IFJlc3
 VtZVxuYXV0aG9yOiBEYXZpZCBMb3BlelxudGFnczogcmVzdW1l
-XG4iLCJoaXN0b3J5IjpbLTEzOTk4MjQzNzQsLTE2NjI0OTAwMD
-gsLTExMTQ2MzA1NzYsMTE1NzExMjM2NiwyMTE0MDcyMzM3LDE0
-MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3NjkzOCw3MTIyNTUzNT
-YsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03NDg4Mzk4NjUsLTM0
-NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MDg5OCwtMTc0MjExOD
-M4MiwtMTc0MjExODM4Ml19
+XG4iLCJoaXN0b3J5IjpbLTE5NDExODkwNjksLTEzOTk4MjQzNz
+QsLTE2NjI0OTAwMDgsLTExMTQ2MzA1NzYsMTE1NzExMjM2Niwy
+MTE0MDcyMzM3LDE0MzM1OTg0NDUsMzgxMjc1NDI2LDcxMjY3Nj
+kzOCw3MTIyNTUzNTYsLTU4NjI4NDk0NSwtMTI3MTUxMjYyLC03
+NDg4Mzk4NjUsLTM0NTczMjc4Nyw2OTI0NzQ5NTQsLTg5Mzc5MD
+g5OCwtMTc0MjExODM4MiwtMTc0MjExODM4Ml19
 -->
